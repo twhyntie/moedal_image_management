@@ -26,9 +26,6 @@ from shutil import rmtree
 #...for the plotting.
 import matplotlib.pyplot as plt
 
-#...for the image conversions.
-import Image
-
 #...for the image manipulation.
 import matplotlib.image as mpimg
 
